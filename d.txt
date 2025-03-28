@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 I live in city2
+=======
+I live in city1
+>>>>>>> 806ed4f99f35241e91dc93e4d617e39e01c183b8
 I love my country1
